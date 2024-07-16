@@ -1,5 +1,10 @@
-Print 'Digite seu nome: '
+print 'Digite seu nome: '
 
-name = gets.chomp
+name = gets.chomp 
 
-puts "hello #{name}"
+print 'Digite seu sobrenome: '
+
+sobrenome = gets.chomp
+
+puts "hello #{name} #{sobrenome}"
+
