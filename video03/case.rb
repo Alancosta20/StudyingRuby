@@ -14,3 +14,40 @@ when 7..9
 else
   puts 'Não foi possível indentificar'
 end
+
+
+
+# MAIS EXEMPLOS #
+#age = 25
+
+#case
+#when age < 18
+#  puts "Menor de idade"
+#when age >= 18 && age < 65
+#  puts "Adulto"
+#else
+#  puts "Idoso"
+#end
+
+
+
+
+
+#day = "Terça-feira"
+
+#case day
+#when "Segunda-feira"
+#  puts "Início da semana!"
+#when "Terça-feira"
+#  puts "Ainda é começo de semana."
+#when "Quarta-feira"
+#  puts "Meio da semana!"
+#when "Quinta-feira"
+#  puts "Quase lá!"
+#when "Sexta-feira"
+#  puts "Último dia útil!"
+#when "Sábado", "Domingo"
+#  puts "Fim de semana!"
+#else
+#  puts "Dia inválido!"
+#end
