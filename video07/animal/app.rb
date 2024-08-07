@@ -9,3 +9,4 @@ puts '--Cachorro--'
 cachorro = Cachorro.new
 cachorro.pular
 cachorro.latir
+cachorro.dormir
