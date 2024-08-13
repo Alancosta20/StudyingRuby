@@ -5,7 +5,7 @@ def foo
   else
     puts "Sem parâmetro do tipo bloco"
   end
- end
+end
  
  foo
  foo { puts "Com parâmetro do tipo bloco"}
